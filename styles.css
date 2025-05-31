@@ -307,8 +307,9 @@ main {
 }
 
 .card-subhead {
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: 'Lilita One', 'Roboto Condensed', 'Cambria', Georgia, Times, 'Times New Roman', serif;
     font-size: medium;
+    font-weight: 1;
     margin-bottom: 30px;
 }
 
